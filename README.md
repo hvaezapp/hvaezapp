@@ -9,11 +9,14 @@
 ### 💻 Languages and Tools
 
 #### 🟢 Programming Languages & Frameworks
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#.NET](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-0A0A0A?style=flat-square)
+![gRPC](https://img.shields.io/badge/-gRPC-0A0A0A?style=flat-square&logo=grpc&logoColor=white)
 ![Async Programming](https://img.shields.io/badge/-Async%20Programming-0A0A0A?style=flat-square)
+![Socket Programming](https://img.shields.io/badge/-Socket%20Programming-0A0A0A?style=flat-square)
 
 #### 🟠 System Design & Architecture
 ![OOP](https://img.shields.io/badge/-OOP-0A0A0A?style=flat-square)
