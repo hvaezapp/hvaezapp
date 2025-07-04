@@ -13,10 +13,13 @@
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-0A0A0A?style=flat-square)
 ![gRPC](https://img.shields.io/badge/-gRPC-0A0A0A?style=flat-square&logo=grpc&logoColor=white)
 ![Async Programming](https://img.shields.io/badge/-Async%20Programming-0A0A0A?style=flat-square)
-![Socket Programming](https://img.shields.io/badge/-Socket%20Programming-0A0A0A?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 #### 🟠 System Design & Architecture
 ![OOP](https://img.shields.io/badge/-OOP-0A0A0A?style=flat-square)
