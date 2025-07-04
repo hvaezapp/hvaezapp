@@ -22,11 +22,17 @@
 ![OOP](https://img.shields.io/badge/-OOP-0A0A0A?style=flat-square)
 ![SOLID](https://img.shields.io/badge/-SOLID-0A0A0A?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-0A0A0A?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-0A0A0A?style=flat-square)
 ![CQRS](https://img.shields.io/badge/-CQRS-0A0A0A?style=flat-square)
 ![DDD](https://img.shields.io/badge/-DDD-0A0A0A?style=flat-square)
-![Architectural Styles](https://img.shields.io/badge/-Clean%20Architecture-0A0A0A?style=flat-square)
-![Microservices](https://img.shields.io/badge/-Microservices-0A0A0A?style=flat-square)
+
+
+#### 🧱 Architectural Styles & Patterns
+![Monolithic](https://img.shields.io/badge/-Monolithic-343a40?style=flat-square)
+![Layered](https://img.shields.io/badge/-Layered-343a40?style=flat-square)
+![Microservices](https://img.shields.io/badge/-Microservices-343a40?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/-Event%20Driven-343a40?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-0A0A0A?style=flat-square)
+
 
 #### 🔵 Databases & Data Access
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
