@@ -25,6 +25,7 @@
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-0A0A0A?style=flat-square)
 ![CQRS](https://img.shields.io/badge/-CQRS-0A0A0A?style=flat-square)
 ![DDD](https://img.shields.io/badge/-DDD-0A0A0A?style=flat-square)
+![Architectural Styles](https://img.shields.io/badge/-Clean%20Architecture-0A0A0A?style=flat-square)
 ![Microservices](https://img.shields.io/badge/-Microservices-0A0A0A?style=flat-square)
 
 #### 🔵 Databases & Data Access
