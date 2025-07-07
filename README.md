@@ -32,7 +32,7 @@
 ![Layered](https://img.shields.io/badge/-Layered-343a40?style=flat-square)
 ![Microservices](https://img.shields.io/badge/-Microservices-343a40?style=flat-square)
 ![Event-Driven](https://img.shields.io/badge/-Event%20Driven-343a40?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-0A0A0A?style=flat-square)
+
 
 
 #### 🔵 Databases & Data Access
