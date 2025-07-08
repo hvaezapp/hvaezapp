@@ -82,7 +82,8 @@
 - [MediaService](https://github.com/hvaezapp/MediaService)
 - [Reservation](https://github.com/hvaezapp/Reservation)
 - [CQRSConcept](https://github.com/hvaezapp/CQRSConcept)
-- [Whiteboard](https://github.com/hvaezapp/Whiteboard)
+- [Whiteboard](https://github.com/hvaezapp/Whiteboard) 
+- [Whiteboard](https://github.com/hvaezapp/SocialMedia)
 - [BlogApp](https://github.com/hvaezapp/BlogApp)
 
 
