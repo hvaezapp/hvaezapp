@@ -80,10 +80,10 @@
 
 ### 📂 Top Projects
 - [MediaService](https://github.com/hvaezapp/MediaService)
-- [Reservation](https://github.com/hvaezapp/Reservation)
-- [CQRSConcept](https://github.com/hvaezapp/CQRSConcept)
-- [Whiteboard](https://github.com/hvaezapp/Whiteboard) 
 - [SocialMedia](https://github.com/hvaezapp/SocialMedia)
+- [CQRSConcept](https://github.com/hvaezapp/CQRSConcept)
+- [Reservation](https://github.com/hvaezapp/Reservation)
+- [Whiteboard](https://github.com/hvaezapp/Whiteboard) 
 - [BlogApp](https://github.com/hvaezapp/BlogApp)
 
 
