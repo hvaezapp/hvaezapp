@@ -79,13 +79,15 @@
 
 
 ### 📂 Top Projects
-- [ShortenerService](https://github.com/hvaezapp/ShortenerService)
-- [MediaService](https://github.com/hvaezapp/MediaService)
-- [SocialMedia](https://github.com/hvaezapp/SocialMedia)
-- [CQRSConcept](https://github.com/hvaezapp/CQRSConcept)
-- [Reservation](https://github.com/hvaezapp/Reservation)
-- [Whiteboard](https://github.com/hvaezapp/Whiteboard) 
-- [BlogApp](https://github.com/hvaezapp/BlogApp)
+| Repository | Description |
+|------------|-------------|
+| [ShortenerService](https://github.com/hvaezapp/ShortenerService) | A URL shortener built with ASP.NET Core 9, MongoDB, Redis, & Docker. Uses Minimal APIs, DispatchR for event-driven sync, & Scalar for interactive docs. Shorten URLs effortlessly! |
+| [MediaService](https://github.com/hvaezapp/MediaService) | Simple and extensible .NET service for managing media files with MinIO. Supports upload, download, and bucket operations using a clean abstraction layer. |
+| [SocialMedia](https://github.com/hvaezapp/SocialMedia) | SocialMedia based ASP.Net Core 9 | neo4j | Community detection |
+| [CQRSConcept](https://github.com/hvaezapp/CQRSConcept) | a practical ASP.NET Core 9 project showcasing CQRS pattern with MediatR and Clean Architecture for clean, scalable, and testable code. |
+| [Reservation](https://github.com/hvaezapp/Reservation) | Modern ASP.NET Core 9 reservation API using Vertical Slice architecture, FluentValidation, Redis & RedLock for concurrency control. |
+| [Whiteboard](https://github.com/hvaezapp/Whiteboard) | Real-time whiteboard based on ASP.NET Core 9 | SignalR |
+| [BlogApp](https://github.com/hvaezapp/BlogApp) | Blog application built with ASP.NET Core 8 and Clean Architecture, featuring CQRS, MediatR, AutoMapper, and SQL Server. |
 
 
 
