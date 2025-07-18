@@ -74,6 +74,7 @@
 ![MinIO](https://img.shields.io/badge/-MinIO-0A0A0A?style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
+![Scalar](https://img.shields.io/badge/-Scalar-007ACC?style=flat-square)
 
 
 
