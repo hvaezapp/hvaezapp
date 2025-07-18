@@ -63,7 +63,7 @@
 
 #### 🧪 Testing
 ![TDD](https://img.shields.io/badge/-TDD-0A0A0A?style=flat-square)
-![xUnit](https://img.shields.io/badge/-xUnit-0A0A0A?style=flat-square)
+![Unit & Integration Testing with xUnit](https://img.shields.io/badge/Unit%20%26%20Integration%20Testing%20with%20xUnit-007ACC?style=flat-square)
 
 #### ⚙️ Development Practices
 ![Agile](https://img.shields.io/badge/-Agile(Scrum)-0A0A0A?style=flat-square)
