@@ -8,7 +8,7 @@
 
 ### 💻 Languages and Tools
 
-#### 🟢 Programming Languages & Frameworks
+#### 🟢 Backend Technologies
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
