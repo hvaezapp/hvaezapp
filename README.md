@@ -30,6 +30,7 @@
 #### 🧱 Architectural Styles & Patterns
 ![Monolithic](https://img.shields.io/badge/-Monolithic-343a40?style=flat-square)
 ![Layered](https://img.shields.io/badge/-Layered-343a40?style=flat-square)
+![MVC](https://img.shields.io/badge/-MVC-343a40?style=flat-square)
 ![Microservices](https://img.shields.io/badge/-Microservices-343a40?style=flat-square)
 ![Event-Driven](https://img.shields.io/badge/-Event%20Driven-343a40?style=flat-square)
 
