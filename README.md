@@ -82,7 +82,7 @@
 
 ### 📂 Top Projects
 | Repository | Description |
-|------------------------|-------------------------|
+|------------|-------------|
 | [ShortenerService](https://github.com/hvaezapp/ShortenerService) | A URL shortener built with ASP.NET Core 9, MongoDB, Redis, & Docker. Uses Minimal APIs, DispatchR for event-driven sync, & Scalar for interactive docs. Shorten URLs effortlessly! |
 | [Reservation](https://github.com/hvaezapp/Reservation) | Modern ASP.NET Core 9 reservation API using Vertical Slice architecture, FluentValidation, Redis & RedLock for concurrency control and prevent double booking scenario. Includes Outbox pattern to reliably deliver notification messages to a message broker. |
 | [MediaService](https://github.com/hvaezapp/MediaService) | Simple and extensible .NET 9 service for managing media files with MinIO. Supports upload, download, and bucket operations using a clean abstraction layer. |
