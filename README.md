@@ -5,7 +5,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hvaezapp&label=Profile%20views&color=0e75b6&style=flat)
 
-### 📂 Projects (<a href='https://github.com/hvaezapp?tab=repositories'> See All Projects </a>)
+### 📂 Projects (<a href='https://github.com/hvaezapp?tab=repositories'> ✅ See All MY Projects ✅ </a>)
 | Repository | Description |
 |------------|-------------|
 | [ShortenerService](https://github.com/hvaezapp/ShortenerService) | A URL shortener service built with ASP.NET Core 9, MongoDB, Redis, & Docker. Uses Minimal APIs, DispatchR for event-driven sync, & Scalar for interactive docs. Shorten URLs effortlessly! |
