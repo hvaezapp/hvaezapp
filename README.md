@@ -15,5 +15,5 @@
 | [Media Service](https://github.com/hvaezapp/MediaService) | Simple and extensible ASP.NET Core 9 service for managing media files with MinIO. Supports upload, download, and bucket operations using a clean abstraction layer. |
 | [Load Balancer](https://github.com/hvaezapp/load-balancing-with-yarp) | A comprehensive example project illustrating the implementation of horizontal scaling and load balancing for web applications using YARP. |
 | [CleanArchitecture](https://github.com/hvaezapp/CleanArchitecture) | This repository contains an example of a project using Clean Architecture in ASP.NET. It demonstrates the use of the CQRS and Mediator patterns, as well as the Circuit Breaker and Retry patterns using the Polly package. |
-| [CQRSConcept](https://github.com/hvaezapp/CQRSConcept) | a practical ASP.NET Core 9 project showcasing CQRS pattern with MediatR and Clean Architecture for clean, scalable, and testable code. |
+| [CQRS Concept](https://github.com/hvaezapp/CQRSConcept) | a practical ASP.NET Core 9 project showcasing CQRS pattern with MediatR and Clean Architecture for clean, scalable, and testable code. |
 
