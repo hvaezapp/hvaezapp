@@ -6,10 +6,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=hvaezapp&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 📂 Project Highlights (<a href='https://github.com/hvaezapp?tab=repositories'> ✅ View All My Projects ✅ </a>)
-| Repository | Description |
-|------------|-------------|
+| Repository                     | Description  
+|--------------------------------|------------------------------------------------------------------------------------------------------|
 | [DigitalWallet Service](https://github.com/hvaezapp/DigitalWallet) | The User Wallet Service is developed using ASP.NET Core 9 and follows the Vertical Slice Architecture (VSA) principle. |
-| [URL Shortener Service](https://github.com/hvaezapp/ShortenerService) | A URL shortener service built with ASP.NET Core 9, MongoDB, Redis, & Docker. Uses Minimal APIs, DispatchR for event-driven sync, & Scalar for interactive docs. Shorten URLs effortlessly! |
+| [URL Shortener Service](https://github.com/hvaezapp/ShortenerService) | A URL shortener service built with ASP.NET Core 9, MongoDB, Redis, & Docker. Uses Minimal APIs, DispatchR for event-driven sync, & Scalar for interactive docs. |
 | [Basket Service](https://github.com/hvaezapp/Basket) | Basket service for an e-commerce platform in ASP.NET Core 9 with involves several key functionalities. |
 | [Reservation Service](https://github.com/hvaezapp/Reservation) | Modern ASP.NET Core 9 reservation API using Vertical Slice architecture, FluentValidation, Redis & RedLock for concurrency control and prevent double booking scenario. Includes Outbox pattern to reliably deliver notification messages to a message broker. |
 | [Media Service](https://github.com/hvaezapp/MediaService) | Simple and extensible ASP.NET Core 9 service for managing media files with MinIO. Supports upload, download, and bucket operations using a clean abstraction layer. |
